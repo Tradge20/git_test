@@ -1,0 +1,1 @@
+This is Tradge's 1st Odin Git page!!!
